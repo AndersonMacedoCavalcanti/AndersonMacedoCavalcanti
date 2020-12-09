@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
+
 <h3 align="center">Apaixonado por desenvolver</h3>
 
 - 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo e Engenharia de software - UNICID
@@ -42,5 +43,6 @@
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 **🌱 Looking forward to learn:**
-<h1>REACT JS | IONIC | AMAZON | MONGODB | </h1>
+
+<h3>REACT JS | IONIC | AMAZON | MONGODB | </h3>
 
