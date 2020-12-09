@@ -4,11 +4,13 @@
 
 
 
-- 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo e Engenharia de software - UNICID
-- 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅
-- :seedling: Buscando aprender e aperfeiçoar meus conhecimentos 
+- 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo e Engenharia de software - UNICID.
+- 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅.
+- :seedling: Buscando aprender e aperfeiçoar meus conhecimentos.
 - 💪🏼 Metas futuras: continuar a me desenvolver - Fazer a diferença nesse mundo.
+- :relaxed: Tenho interesse em projetos de desenvolvimento WEB e para outras plataformas com a linguagem Java.
 - :snowboarder: Gosto de apreciar uma bela vista, amo neve :snowflake: e um bom filme.
+- :trophy: Aberto a novas oportunidades.
 
 
 - :mailbox: Você pode me encontrar nos links abaixo.
@@ -18,7 +20,7 @@
    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ContatoAndersonCavalcanti@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
 
-### Linguagens e ferrametas que eu utilizo 
+### Linguagens e ferrametas que eu utilizo
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
