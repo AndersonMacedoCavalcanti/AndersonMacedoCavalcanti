@@ -8,7 +8,7 @@
 - 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅
 - :seedling: Buscando aprender e aperfeiçoar meus conhecimentos 
 - 💪🏼 Metas futuras: continuar a me desenvolver - Fazer a diferença nesse mundo.
-- :snowboarder: Gosto de apreciar uma bela vista, esportes com neve :snowflake: e um bom filme.
+- :snowboarder: Gosto de apreciar uma bela vista, amo neve :snowflake: e um bom filme.
 
 
 - :mailbox: Você pode me encontrar nos links abaixo.
