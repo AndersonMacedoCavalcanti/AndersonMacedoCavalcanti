@@ -14,9 +14,9 @@
 - :mailbox: Você pode me encontrar nos links abaixo.
 
 
-   [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndersonCavalcanti)
-   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ContatoAndersonCavalcanti@gmail.com)
-   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
+-   [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndersonCavalcanti)
+-   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ContatoAndersonCavalcanti@gmail.com)
+-   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
 
 ##### Linguagens e ferrametas que eu utilizo 
 
