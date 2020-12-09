@@ -1,3 +1,1 @@
-# Anderson Macedo Cavalcanti
 
-C
