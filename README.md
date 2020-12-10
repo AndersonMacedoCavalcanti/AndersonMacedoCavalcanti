@@ -20,7 +20,7 @@
    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ContatoAndersonCavalcanti@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
 
-### Linguagens e ferrametas que eu utilizo
+### Linguagens e ferrametas que eu utilizo:
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -34,7 +34,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-### Banco de Dados
+### Banco de Dados:
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
