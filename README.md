@@ -2,8 +2,6 @@
 
 <h3 align="center">Apaixonado por desenvolver</h3>
 
-
-
 - 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo e Engenharia de software - UNICID.
 - 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅.
 - :seedling: Buscando aprender e aperfeiçoar meus conhecimentos.
@@ -37,6 +35,7 @@
 
 
 ### Banco de Dados:
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
