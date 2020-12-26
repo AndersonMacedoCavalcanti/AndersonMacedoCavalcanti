@@ -33,7 +33,9 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
+
 ### Banco de Dados:
+
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
