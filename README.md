@@ -4,7 +4,7 @@
 <h3 align="center">Apaixonado por desenvolver</h3>
 
 
-- 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo e Engenharia de software - UNICID.
+- 🎓Cursando Analise e desenvolvimento de sistemas - Universidade Metodista de São Paulo.
 - 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅.
 - :seedling: Buscando aprender e aperfeiçoar meus conhecimentos.
 - 💪🏼 Metas futuras: continuar a me desenvolver - Fazer a diferença nesse mundo.
