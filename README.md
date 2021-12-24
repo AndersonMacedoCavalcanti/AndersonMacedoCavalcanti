@@ -8,7 +8,7 @@
 - 📚 Atualmente estou aprendendo desenvolvimento WEb full-stack com Spring e outra tecnologias 😅.
 - :seedling: Buscando aprender e aperfeiçoar meus conhecimentos.
 - 💪🏼 Metas futuras: continuar a me desenvolver - Fazer a diferença nesse mundo.
-- :relaxed: Tenho interesse em projetos de desenvolvimento WEB e para outras plataformas com a linguagem Java.
+- :relaxed: Tenho interesse em projetos de desenvolvimento WEB e para outras plataformas com a linguagem Java e javaScrip.
 - :snowboarder: Gosto de apreciar uma bela vista, amo neve :snowflake: e um bom filme.
 - :trophy: Aberto a novas oportunidades.
 
@@ -20,7 +20,7 @@
    [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
 
 
-### Linguagens e ferrametas que eu utilizo:
+### Algumas das linguagens e ferrametas que utilizo:
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
