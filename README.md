@@ -17,7 +17,7 @@
 
 
    [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ContatoAndersonCavalcanti@gmail.com)
-   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-macedo-513a34115/)
+   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-cavalcanti-513a34115/)
 
 
 ### Algumas das linguagens e ferrametas que utilizo:
